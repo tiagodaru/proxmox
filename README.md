@@ -1,4 +1,4 @@
-# PROXMOX ADICIONAR HD REAL NA VM
+# PROXMOX ADICIONAR HD REAL NA VM - pass-through Hard Drive
 
 
 Anexar discos físicos a uma VM no Proxmox
